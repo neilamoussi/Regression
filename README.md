@@ -2,12 +2,13 @@
 Regression Project
 
 <h2>Problem Statement</h2>
-We will use the sales data in 2015 collected by BigMart for 1559 products across 9 stores in different cities. The aim is to build a predictive model to find out the sales of each product at a particular store.
-Using this model, we will try to understand and define the properties of products and stores which play a key role in increasing sales.
+The aim is to build a predictive model to find out the sales of each product at a particular store.
+We will try to understand and define the properties of products.
 
 <h2>Installation</h2>
-We will use the following software and python libraries :   
-Python version 3.7  
+we will use Python version 3.7 
+We will use the following python libraries :   
+
 Matplotib
 Numpy    
 Pandas 
@@ -18,24 +19,23 @@ Seaborn
 
 **Ttrain_CSRqzyo.csv**: Train dataset  
 **test_wYRkl1c.csv** : Test dataset  
-**output.csv**: Output / Target Variable solution 
-**Regression_project.ipynb** :  main file of the project, it demonstrates the steps taken in predictive modeling.
+**output.csv**: Output / Target Variable  
+**Regression_project.ipynb** :  main file of the project, it demonstrates the steps taken in our predictive modeling.
  
 
 <h2>Modeling</h2>
 
 **Decision Tree**
 
-Initial Analysis of Data  
-Univariate Analysis    
+Understanding and Analysis of Data  
 Bivaraite Analysis  
-Missing Value Treatment    
-Outlier Treatment   
-Variable Transformation   
+Missing  Data Treatment    
+Outlier Detection and Treatment   
+Variables Transformation   
 Modeling    
 
 <h2>Output</h2>
 
-Analysed the train and test data. Build a model to identify key role in increasing sales.  
+Analysed the train and test data to identify key role in increasing sales and build the final model. 
 
 
