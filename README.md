@@ -1,31 +1,30 @@
-# Regression-Projet
-AI & ML Black belt Introduction to Data Science Regression Project
+# Regression
+Regression Project
 
 <h2>Problem Statement</h2>
-The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
-Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
+We will use the sales data in 2015 collected by BigMart for 1559 products across 9 stores in different cities. The aim is to build a predictive model to find out the sales of each product at a particular store.
+Using this model, we will try to understand and define the properties of products and stores which play a key role in increasing sales.
 
 <h2>Installation</h2>
-The project used the following software and python libraries :   
-Python version 3.6  
+We will use the following software and python libraries :   
+Python version 3.7  
+Matplotib
 Numpy    
-Pandas    
-Matplotib  
-Seaborn   
+Pandas 
 Scikit learn   
+Seaborn   
 
-<h2>File Description</h2>
+<h2>Project fils Description</h2>
 
-**Regression_project.ipynb** : is the main file of the project, it demonstrates the steps taken in predictive modeling.
-**test_wYRkl1c.csv** : Test dataset  
 **Ttrain_CSRqzyo.csv**: Train dataset  
-**output.csv**: Target Variable solution  
+**test_wYRkl1c.csv** : Test dataset  
+**output.csv**: Output / Target Variable solution 
+**Regression_project.ipynb** :  main file of the project, it demonstrates the steps taken in predictive modeling.
+ 
 
-<h2>Model</h2>
+<h2>Modeling</h2>
 
 **Decision Tree**
-
-<h2>Methodology</h2>
 
 Initial Analysis of Data  
 Univariate Analysis    
@@ -35,10 +34,8 @@ Outlier Treatment
 Variable Transformation   
 Modeling    
 
-<h2>Result</h2>
+<h2>Output</h2>
 
 Analysed the train and test data. Build a model to identify key role in increasing sales.  
 
-<h2>Acknowledgement</h2>
 
-Must give credit to Analytics Vidhya for the project  
